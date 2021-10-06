@@ -1,2 +1,2 @@
-Admin-Username[1]
-Admin-Username[2]
+Admin_Username1
+Admin_Username2
