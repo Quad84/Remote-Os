@@ -14,6 +14,7 @@ Os-Remoter with Python (Telegram Bot)
 [!] How to become an admin in the robot and access the necessary permissions?
 
 [@] Write your personal account ID number or username in the Admin.txt file!
+[@] Write the username without @
 
 ----------------------------------
 
