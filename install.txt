@@ -1,0 +1,4 @@
+telebot
+colorama
+random
+pillow
